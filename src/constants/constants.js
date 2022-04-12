@@ -38,9 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2014, text: 'Graduated college with a Bachelor of Music Education', },
+  { year: 2015, text: 'First Teaching Job', },
+  { year: 2020, text: 'Got Married', },
+  { year: 2021, text: 'Started At A New school And Started My Coding Journey', },
+  { year: 2022, text: 'Completed the NuCamp Front-End Development Boot Camp', },
 ];
