@@ -14,7 +14,7 @@ const Hero = () => (
       <SectionText>
       Welcome to my portfolio site! You will find links to projects I have done as well as some information about me and how to contact me!
       </SectionText>
-      <Button onClick={() => window.location = 'https://google.com'}>Learn More</Button>
+      <Button onClick={() => window.location = 'https://linkedin.com/in/jgonzales22'}>Learn More</Button>
     </LeftSection>
   </Section>
 );
