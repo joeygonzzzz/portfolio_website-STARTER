@@ -12,7 +12,7 @@ const Hero = () => (
         My name is Jose "Joey" Gonzales, an aspiring front-end developer!
       </SectionTitle>
       <SectionText>
-      I am a web developer with a focus on the front-end utilizing JavaScript ES6, communications, and various team building methodologies. I have a previous background of 7+ years in teaching. As a teacher, I am always trying to find ways to simplify ideas and instruction so that students can understand it easier and I believe that fully translates to coding, the more simple and to the point, you will receive a more effective end result. I am looking to bring my combined experience to web design and align myself with a company to build new ideas and bring them to fruition.
+      Welcome to my portfolio site! You will find links to projects I have done as well as some information about me and how to contact me!
       </SectionText>
       <Button onClick={() => window.location = 'https://google.com'}>Learn More</Button>
     </LeftSection>
