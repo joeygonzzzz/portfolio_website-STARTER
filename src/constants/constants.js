@@ -2,7 +2,6 @@ export const projects = [
   {
     title: 'La Vernia Band Website',
     description: "Using HTML, CSS and Javascript I made an informative website for the La Vernia Band Program",
-      image: '/',
       tags: ['HTML', 'CSS', 'Javascript',],
     source: 'https://github.com/joeygonzzzz/lvbandwebsite',
     visit: 'https://laverniaband.netlify.app',
@@ -11,7 +10,6 @@ export const projects = [
   {
     title: 'Rosas Hamburger Stand',
     description:"Using React and Tailwind CSS I made an informative website about a local restaurant.",
-    image: '/',
     tags: ['React', 'CSS', 'Tailwind'],
     source: 'https://github.com/joeygonzzzz/hamburgerstand',
     visit: 'https://rosashamburgerstand.netlify.app',
@@ -20,7 +18,6 @@ export const projects = [
   {
     title: 'NuCamp camp site with React',
     description: "This is a site that we built during our bootcamp. It involves React and some Redux",
-      image: '/',
       tags: ['React', 'Redux'],
     source: 'https://github.com/joeygonzzzz/nucampsitereact',
     visit: 'https://google.com',
@@ -29,7 +26,6 @@ export const projects = [
   {
     title: 'NuCamp site with React-Native',
     description: "This a mobile we app that we built during our bootcamp using the Nucamp camp site with React",
-    image: '/',
     tags: ['React', 'React-Native', 'Redux'],
     source: 'https://github.com/joeygonzzzz/nucampnative',
     visit: 'https://google.com',
